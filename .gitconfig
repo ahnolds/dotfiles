@@ -1,3 +1,9 @@
 [user]
 	name = Alec Cooper
 	email = ahnolds@gmail.com
+[push]
+	default = simple
+[help]
+	autocorrect = -1
+[core]
+	editor = vim
