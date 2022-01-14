@@ -1,9 +1,12 @@
 [user]
-	name = Alec Cooper
+	name = Alec Woods
 	email = ahnolds@gmail.com
+	signingkey = 2ED110BD05DE0AFF
 [push]
 	default = simple
 [help]
 	autocorrect = -1
 [core]
 	editor = vim
+[alias]
+	co = checkout
